@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Trending Movies and Series</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="error_connection">Error connection</string>
+    <string name="no_offline_db">You are offline mode, no offline data found</string>
+    <string name="no_data_found">No data found to show</string>
+</resources>
